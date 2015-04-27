@@ -1,5 +1,5 @@
 # ng-spin
-A simple AngularJS directive to display a spinner, using Spin.js
+A simple AngularJS directive to display a spinner, using [Spin.js](http://fgnass.github.io/spin.js/)
 
 ## Usage
 
